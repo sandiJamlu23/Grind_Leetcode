@@ -1,7 +1,3 @@
-from code import interact
-from sys import intern
-
-
 class Solution(object):
     def intersection(self, num1, num2):
         '''
